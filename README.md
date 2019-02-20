@@ -14,7 +14,7 @@ was taken, as using the receipt time would be affeected by latency in the connec
 
 The host subscribes to emergency messages sent by the server and flashes the screen's LED backlight if one is received.
 
-
+                                                #################################
 
 
 CPMServer.py intended for use on a processing server subscribing to multiple hosts in each others' local area.
