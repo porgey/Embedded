@@ -16,7 +16,6 @@ The host subscribes to emergency messages sent by the server and flashes the scr
 
                                                 #################################
 
-
 CPMServer.py intended for use on a processing server subscribing to multiple hosts in each others' local area.
 
 For the purposes of this project only one host was utilised but is easily adaptable for more host data to be received.
