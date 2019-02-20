@@ -1,4 +1,4 @@
-# Embedded
+Embedded's product is Gamma, an IoT radiation-detecting watch network.
 
 CPMHost.py s intended for use on the Raspberry Pi.
 
