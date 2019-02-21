@@ -24,6 +24,8 @@ Host data is simulated by random number generation.
 The average of 4 simulations and user1's CPM reading is taken every second and if this exceeds a set threshold (2 in this demo)
 then an emergency message will be sent on the 'Emergency' topic, alerting the user of high radiation levels in their local area.
 
+The CPM and timestamps are ploted against one another on a webpage on the processing server at http://127.0.0.1:8050/
+
 
 
 Encryption had previously been used with the Mosquitto Broker, however the new broker used, HiveMQ, does not support 
